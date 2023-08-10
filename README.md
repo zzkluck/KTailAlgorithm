@@ -5,7 +5,7 @@
 + Reiss, Steven P., and Manos Renieris. "Encoding program executions." Proceedings of the 23rd International Conference on Software Engineering. ICSE 2001. IEEE, 2001.
 
 希望以后能有精力补上些新改进的实现吧。
-![程序执行流](example_sequence\example.png)
+![程序执行流]((https://github.com/zzkluck/KTailAlgorithm/blob/main/example_sequence/example.png))
 
 ## Prerequisites:
 * python
